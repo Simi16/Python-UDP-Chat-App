@@ -3,7 +3,11 @@ To setup UDP Chat server in your machine, understand the code and implement it o
 .
 .
 .
+.
+.
 I have used UDP Socket Programming and Multithreading in python to achive the concept of parallelism on both servers.
+.
+.
 .
 .
 .
